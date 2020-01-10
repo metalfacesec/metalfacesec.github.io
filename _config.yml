@@ -21,7 +21,7 @@
 title: MetalFace Security
 email: metalfacesec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a dude trying to keep all the bits safe.
+  Just a dude trying to keep all your data safe.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://metalfacesec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: metalfacesec

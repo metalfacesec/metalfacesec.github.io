@@ -4,15 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
+The name is Sean but you'll commonly hear me referred to online as Metal Face. I’m a software engineer by day and a hacker of all things by night. I love tinkering and learning new things but most of all, I love a good challenge. I have a lot of experience with web application programing and have worked as a full stack engineer most of my career. I’m always looking to network so don’t hesitate to reach out using the contact info below!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+# Contact Info
+* [Twitter](https://twitter.com/MetalFaceSec)
+* metalfacesec@gmail.com

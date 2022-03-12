@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MetalFace Security
+title: MetalFace's Blog
 email: metalfacesec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just a dude trying to keep all your data safe. Passionate about all things technology.
+  Just a dude who likes to build things and solve problems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://metalfacesec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: metalfacesec

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Repairing My Neo-Geo MVS"
-date:   2022-03-13 12:16:22 -0500
+date:   2022-03-13 01:16:22 -0500
 categories: arcade
 ---
 # Introduction

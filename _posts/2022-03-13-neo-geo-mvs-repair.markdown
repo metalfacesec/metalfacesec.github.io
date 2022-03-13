@@ -2,7 +2,7 @@
 layout: post
 title:  "Repairing My Neo-Geo MVS"
 date:   2022-03-13 01:16:22 -0500
-categories: arcade
+categories: [Arcade, Electrical]
 ---
 # Introduction
 I recently went to boot up my Neo-Geo MVS arcade machine and was greeted with a blank screen with no image or sound. I could hear the monitor kicking on and was praying the issue had something to do with the board as it doesn’t run lethal amounts of voltage. This machine’s monitor is in amazing condition though and all the caps look great so it shouldn’t be having any issues. For context I have added a picture of the machine I’m talking about and the board. Note that these are not pictures of my cabinet and board. They are pictures I found online of the same cabinet and PCB I have at home.

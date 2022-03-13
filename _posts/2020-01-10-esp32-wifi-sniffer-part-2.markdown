@@ -2,7 +2,7 @@
 layout: post
 title:  "ESP32 WiFi Sniffer[Part 2]"
 date:   2020-01-10 08:50:22 -0500
-categories: security
+categories: [Programming, Security]
 ---
 # Igredients
 * [Everything Setup From Part One](https://metalfacesec.github.io/infosec/security/esp32/2020/01/09/esp32-wifi-sniffer-part-1.html)

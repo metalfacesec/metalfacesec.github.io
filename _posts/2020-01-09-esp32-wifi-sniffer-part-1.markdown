@@ -2,7 +2,7 @@
 layout: post
 title:  "ESP32 WiFi Sniffer[Part 1]"
 date:   2020-01-09 13:59:47 -0500
-categories: security
+categories: [Programming, Security]
 ---
 # Ingredients
 * [ESP32](https://www.amazon.com/KeeYees-Development-Bluetooth-Microcontroller-ESP-WROOM-32/dp/B07QCP2451/)

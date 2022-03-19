@@ -203,4 +203,4 @@ Outputs:
 ```
 
 # Wrapping Up
-I hope this post was able to add some fun new tricks to your book of working with arrays in javascript. As always thank you for reading and if you have any questions don't hesitate to reach out!
+I hope this post was able to add some fun new tricks to your book of working with arrays in javascript. As always thank you for reading and if you have any questions don't hesitate to reach out! This is not a full list of array methods and there are a lot more that you should learn and have in your toolbox. I highly recommend you check out the [Mozilla Array Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) to learn more about Array methods!
